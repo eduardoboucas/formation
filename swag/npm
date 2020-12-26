@@ -1,4 +1,8 @@
-fast-cli::fast
+@11ty/eleventy::eleventy
+eslint::eslint
 gatsby-cli::gatsby
+lerna::lerna
+netlify-cli::netlify-cli
+nodemon::nodemon
+typescript::typescript
 vue-cli::vue
-yo::yo
